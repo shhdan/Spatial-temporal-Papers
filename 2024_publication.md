@@ -70,8 +70,32 @@
 - AFTER: Adaptive Friend Discovery for Temporal-spatial and Social-aware XR.
 - Cross Online Assignment of Hybrid Task in Spatial Crowdsourcing.
 - Task Recommendation in Spatial Crowdsourcing: A Trade-off between Diversity and Coverage.
-- MUSE-Net: Disentangling Multi-Periodicity for Traffic Flow Forecasting.
+- MUSE-Net: Disentangling Multi-Periodicity for Traffic Flow Forecasting. 
 - Querying Shortest Path on Large Time-Dependent Road Networks with Shortcuts.
 - Querying Numeric-Constrained Shortest Distances on Road Networks.
 - Online Multi-Worker-Aware Route Planning over Time-Dependent Road Networks.
 - Cooperative Global Path Planning for Multiple Platforms.
+
+## KDD
+- UrbanGPT: Spatio-Temporal Large Language Models https://arxiv.org/abs/2403.00813
+- Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization https://arxiv.org/abs/2402.16891
+- CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control https://arxiv.org/abs/2405.17152
+- CrossLight: Offline-to-Online Reinforcement Learning for Cross-City Traffic Signal Control https://zhoujingbo.github.io/paper/2024CrossLightKDD.pdf
+- Online Preference Weight Estimation Algorithm with Vanishing Regret for Car-Hailing in Road Network https://dl.acm.org/doi/abs/10.1145/3637528.3671664
+- Rethinking Order Dispatching in Online Ride-Hailing Platforms https://dl.acm.org/doi/10.1145/3637528.3672028
+- STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts https://dl.acm.org/doi/abs/10.1145/3637528.3671680
+- UniST: A Prompt-empowered Universal Model for Urban Spatio-temporal Prediction https://arxiv.org/abs/2402.11838
+- ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model https://arxiv.org/abs/2404.15380
+- Communication-efficient Multi-service Mobile Traffic Prediction by Leveraging Cross-service Correlations https://dl.acm.org/doi/abs/10.1145/3637528.3671730
+- Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks https://arxiv.org/abs/2308.16818
+- ITPNet: Towards Instantaneous Trajectory Prediction for Autonomous Driving https://openreview.net/forum?id=mDIXfHvoqH
+- Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology https://dl.acm.org/doi/abs/10.1145/3637528.3671918
+- Physics-informed Neural ODE for Post-disaster Mobility Recovery https://dl.acm.org/doi/abs/10.1145/3637528.3672027 
+- DiffCrime: A Multimodal Conditional Diffusion Model for Crime Risk Map Inference https://dl.acm.org/doi/abs/10.1145/3637528.3671843
+- Self-consistent Deep Geometric Learning for Heterogeneous Multi-source Spatial Point Data Prediction https://arxiv.org/abs/2407.00748 
+- MulSTE: A Multi-view Spatio-temporal Learning Framework with Heterogeneous Event Fusion for Demand-supply Prediction https://dl.acm.org/doi/abs/10.1145/3637528.3672030
+- Long-Term Vessel Trajectory Imputation with Physics-Guided Diffusion Probabilistic Model https://dl.acm.org/doi/abs/10.1145/3637528.3672086
+- RPMixer: Shaking Up Time Series Forecasting with Random Projections for Large Spatial-Temporal Data https://dl.acm.org/doi/abs/10.1145/3637528.3671881
+- Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting https://arxiv.org/abs/2405.10800
+- ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation https://arxiv.org/abs/2312.01728
+- Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks https://arxiv.org/abs/2406.08287
