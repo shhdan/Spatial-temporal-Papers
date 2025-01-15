@@ -47,4 +47,31 @@
 - KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation. https://www.ijcai.org/proceedings/2024/244
 - Enhancing Fine-Grained Urban Flow Inference via Incremental Neural Operator. https://www.ijcai.org/proceedings/2024/644
 
-##
+## ICDE
+- AdapTraj: A Multi-Source Domain Generalization Framework for Multi-Agent Trajectory Prediction.
+- Collectively Simplifying Trajectories in a Database: A Query Accuracy Driven Approach.
+- Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting.
+- A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units.
+- Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI（I&A Track）.
+- A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data.
+- ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction.
+- Scaling up Multivariate Time Series Pre-Training with Decoupled Spatial-Temporal Representations.
+- Congestion-mitigating Spatiotemporal Routing in Road Networks.
+- Deep Dirichlet Process Mixture Model for Non-parametric Trajectory Clustering.
+- CausalTAD: Causal Implicit Generative Model for Debiased Online Trajectory Anomaly Detection.
+- Learning to Hash for Trajectory Similarity Computation and Search.
+- TMan: A High-Performance Trajectory Data Management System Based on Key-value Stores.
+- A Spatio-Temporal Series Data Model with Efficient Indexing and Layout for Cloud-Based Trajectory Data Management.
+- LightTR: A Lightweight Framework for Federated Trajectory Recovery.
+- Real-Time Trajectory Synthesis with Local Differential Privacy.
+- Efficient Learning-based Top-k Representative Similar Subtrajectory Query.
+- Urban Sensing for Multi-destination Workers via Deep Reinforcement Learning.
+- Towards Effective Next POI Prediction: Spatial and Semantic Augmentation with Remote Sensing Data.
+- AFTER: Adaptive Friend Discovery for Temporal-spatial and Social-aware XR.
+- Cross Online Assignment of Hybrid Task in Spatial Crowdsourcing.
+- Task Recommendation in Spatial Crowdsourcing: A Trade-off between Diversity and Coverage.
+- MUSE-Net: Disentangling Multi-Periodicity for Traffic Flow Forecasting.
+- Querying Shortest Path on Large Time-Dependent Road Networks with Shortcuts.
+- Querying Numeric-Constrained Shortest Distances on Road Networks.
+- Online Multi-Worker-Aware Route Planning over Time-Dependent Road Networks.
+- Cooperative Global Path Planning for Multiple Platforms.
