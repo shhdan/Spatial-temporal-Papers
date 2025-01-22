@@ -99,3 +99,30 @@
 - Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting https://arxiv.org/abs/2405.10800
 - ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation https://arxiv.org/abs/2312.01728
 - Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks https://arxiv.org/abs/2406.08287
+
+## AAAI
+- Spatial-Temporal Interplay in Human Mobility: A Hierarchical Reinforcement Learning Approach with Hypergraph Representation https://arxiv.org/abs/2312.15717
+- Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data https://arxiv.org/abs/2309.05305
+- Earthfarsser: Versatile Spatio-Temporal Dynamical Systems Modeling in One Model https://arxiv.org/abs/2312.08403
+- Prompt to transfer: Sim-to-real Transfer for Traffic Signal Control with Prompt Learning https://arxiv.org/abs/2308.14284
+- Urban Region Embedding via Multi-View Contrastive Prediction https://arxiv.org/abs/2312.09681
+- KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding https://ojs.aaai.org/index.php/AAAI/article/view/28672
+- CI-STHPAN: Pre-Trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph https://ojs.aaai.org/index.php/AAAI/article/view/28770
+- Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations https://ojs.aaai.org/index.php/AAAI/article/view/28719
+- ModWaveMLP: MLP-based Mode Decomposition and Wavelet Denoising Model to Defeat Complex Structures in Traffic Forecasting https://ojs.aaai.org/index.php/AAAI/article/view/28753
+- Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting https://ojs.aaai.org/index.php/AAAI/article/view/28707
+- Towards Streaming Spatial-Temporal Graph Learning: A Decoupled Perspective https://ojs.aaai.org/index.php/AAAI/article/view/28759
+- Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation https://ojs.aaai.org/index.php/AAAI/article/view/27813
+- Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation https://arxiv.org/abs/2403.12100
+
+## VLDB
+- BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks https://www.vldb.org/pvldb/vol17/p1081-han.pdf
+- Sparcle: Boosting the Accuracy of Data Cleaning Systems through Spatial Awareness https://www.vldb.org/pvldb/vol17/p2349-mokbel.pdf
+- High-Performance Spatial Data Analytics: Systematic R&D for Scale-Out and Scale-Up Solutions from the Past to Now 3 https://www.vldb.org/pvldb/vol17/p4507-wang.pdf
+- TERI: An Effective Framework for Trajectory Recovery with Irregular Time Intervals https://www.vldb.org/pvldb/vol17/p414-chen.pdf
+- KAMEL: A Scalable BERT-based System for Trajectory Imputation https://www.vldb.org/pvldb/vol17/p525-musleh.pdf
+- Trajectory Similarity Measurement: An Efficiency Perspective Nuhuo: An Effective Estimation Model for Traffic Speed https://www.vldb.org/pvldb/vol17/p2293-qi.pdf
+- Histogram Imputation on A Road Network https://www.vldb.org/pvldb/vol17/p1605-yuan.pdf
+- Real-time Insertion Operator for Shared Mobility on Time-Dependent Road Networks https://www.vldb.org/pvldb/vol17/p1669-zeng.pdf
+- Efficient Stochastic Routing in Path-Centric Uncertain Road Networks https://www.vldb.org/pvldb/vol17/p2893-xu.pdf
+- PCSP: Efficiently Answering Label-Constrained Shortest Path Queries in Road Networks https://www.vldb.org/pvldb/vol17/p3082-wang.pdf
